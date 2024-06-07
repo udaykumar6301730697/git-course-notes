@@ -1,0 +1,55 @@
+                                                                              GIT-COMMANDS
+									   -------------------
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   This are the most frequently used commands in git
+   
+   git init
+  ------------
+    
+   This command is used to install git in the current directory.This is hidden folder to see
+
+  git status
+  -----------
+
+  This command is used to see the status of the files
+
+  git add <file_name>
+  --------------------
+
+  This command is used to send the code from working directory to stagging area
+
+  git add <file_name> <file_name>
+  --------------------------------
+
+  This command is used to send multiple codes from current directory to stagging area
+
+  git add.
+  ----------------
+
+  This command is used to send all the files in the current directory to stagging area (folders,sub folders)
+
+  git rm --cached <file_name> (or) git reset <file_name>
+  ------------------------------------------------------
+
+  This command is used to sends the files from stagging area to current working directory
+
+  git commit -M "your wish"
+  ----------------------------
+
+  M-->message
+
+  commit-->versioning
+
+  This command is used to move the files from stagging area to local repository
+
+  git log  (or) git log --online
+  --------------------------------
+
+  This command is used to show how many versions are stored in the local repository
+
+  .gitignore
+  ------------
+
+  This file is a special configuration file which is used for hidding private files from git,any files whose name mentioned in .gitignore become unaccesable by git
+
+
