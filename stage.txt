@@ -1,0 +1,38 @@
+                               GIT-STAGES
+                             --------------
+
+  Git uses 3 components when working on the local machine
+
+      --> WORKING DIRECTORY OR WORKSPACE
+
+      -->STAGGING AREA
+
+      -->LOCAL REPOSITORY
+
+ ===>1.WORKING DIRECTORY OR WORKSPACE
+     ---------------------------------
+
+     Working directory is the folder where the the code or the configuration files are created.Initially the files present here are called as unttracked files
+
+                                                             (or)
+
+    The code which is initially created is known as untracked files
+
+ ===>2.STAGGING AREA
+ ------------------------------------
+
+   It is the intermediate bufferzone of git into which files temporarly move for indexing purpose and the files present here are called as indexed files
+
+                                                             (or)
+
+   The files which are present in stagging area is known as indexed files
+
+ ===>LOCAL REPOSITORY
+ ------------------------------------
+
+  It is the location where version controlling happens and files present here are calles as commited files
+
+                                                             (or)
+
+  The files which are present in the local repository is known as commited files
+
